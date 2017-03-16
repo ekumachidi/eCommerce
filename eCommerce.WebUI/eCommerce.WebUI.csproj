@@ -203,6 +203,20 @@
   <ItemGroup>
     <Content Include="Scripts\jquery-1.10.2.min.map" />
   </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\eCommerce.Contracts\eCommerce.Contracts.csproj">
+      <Project>{e57d99a1-71f6-46f9-9aa8-18eb569425a7}</Project>
+      <Name>eCommerce.Contracts</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\eCommerce.DAL\eCommerce.DAL.csproj">
+      <Project>{c7fd8b07-576e-45b0-9ba7-c8c7c0d5373b}</Project>
+      <Name>eCommerce.DAL</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\eCommerce.Model\eCommerce.Model.csproj">
+      <Project>{af48ce65-bd23-41eb-a63a-43ffa00e808a}</Project>
+      <Name>eCommerce.Model</Name>
+    </ProjectReference>
+  </ItemGroup>
   <PropertyGroup>
     <VisualStudioVersion Condition="'$(VisualStudioVersion)' == ''">10.0</VisualStudioVersion>
     <VSToolsPath Condition="'$(VSToolsPath)' == ''">$(MSBuildExtensionsPath32)\Microsoft\VisualStudio\v$(VisualStudioVersion)</VSToolsPath>
