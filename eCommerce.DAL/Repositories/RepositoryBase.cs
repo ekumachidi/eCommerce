@@ -8,7 +8,7 @@ using System.Threading.Tasks;
 
 namespace eCommerce.DAL.Repositories
 {
-    abstract class RepositoryBase<TEntity> where TEntity : class
+    public abstract class RepositoryBase<TEntity> where TEntity : class
     {
         internal DataContext context;
         internal DbSet<TEntity> dbSet;
