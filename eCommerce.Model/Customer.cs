@@ -6,7 +6,13 @@ using System.Threading.Tasks;
 
 namespace eCommerce.Model
 {
-    class Customer
+     public class Customer
     {
+        public int CustomeId { get; set; }
+        public string CustomerName { get; set; }
+
+        public string Address1 { get; set; }
+        public string Town { get; set; }
+        public string PostCode { get; set; }
     }
 }
