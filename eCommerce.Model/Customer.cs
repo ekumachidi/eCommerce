@@ -8,7 +8,7 @@ namespace eCommerce.Model
 {
      public class Customer
     {
-        public int CustomeId { get; set; }
+        public int CustomerId { get; set; }
         public string CustomerName { get; set; }
 
         public string Address1 { get; set; }
