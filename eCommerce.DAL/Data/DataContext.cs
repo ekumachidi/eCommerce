@@ -8,7 +8,7 @@ using System.Threading.Tasks;
 
 namespace eCommerce.DAL.Data
 {
-    class DataContext : System.Data.Entity.DbContext
+    public class DataContext : System.Data.Entity.DbContext
     {
         public DataContext() : base("DefaultConnection")
         {

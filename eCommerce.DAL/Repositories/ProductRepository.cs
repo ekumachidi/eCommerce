@@ -9,47 +9,14 @@ using System.Threading.Tasks;
 
 namespace eCommerce.DAL.Repositories
 {
-    class ProductRepository
+    public class ProductRepository : RepositoryBase<Product>
     {
-        internal DataContext context;
-
-        public ProductRepository(DataContext context)
+        public ProductRepository(DataContext context) : base(context)
         {
-            this.context = context;
-        }
-
-        public virtual Product GetById(object id)
-        {
-            return context.Products.Find(id);
-        }
-
-        public virtual IQueryable<Product> GetAll()
-        {
-            return context.Products;
-        }
-        public virtual void Insert(Product entity)
-        {
-            context.Products.Add(entity);
-        }
-
-        public virtual void Update(Product entity)
-        {
-            context.Products.Attach(entity);
-            context.Entry(entity).State = EntityState.Modified;
-        }
-
-        public virtual void Delete(Product entity)
-        {
-            if (context.Entry(entity).State == EntityState.Detached)
+            if (context == null)
             {
-                context.Products.Attach(entity);
+                throw new ArgumentNullException();
             }
-            context.Products.Remove(entity);
-        }
-
-        public virtual void Commit()
-        {
-
         }
     }
 }
