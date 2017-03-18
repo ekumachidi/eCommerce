@@ -10,7 +10,7 @@ C:\Users\Stanley\Documents\Visual Studio 2017\Projects\eCommerce\eCommerce.DAL\b
 C:\Users\Stanley\Documents\Visual Studio 2017\Projects\eCommerce\eCommerce.DAL\bin\Debug\EntityFramework.xml
 C:\Users\Stanley\Documents\Visual Studio 2017\Projects\eCommerce\eCommerce.DAL\bin\Debug\EntityFramework.SqlServer.xml
 C:\Users\Stanley\Documents\Visual Studio 2017\Projects\eCommerce\eCommerce.DAL\obj\Debug\eCommerce.DAL.csprojResolveAssemblyReference.cache
-C:\Users\Stanley\Documents\Visual Studio 2017\Projects\eCommerce\eCommerce.DAL\obj\Debug\eCommerce.DAL.dll
-C:\Users\Stanley\Documents\Visual Studio 2017\Projects\eCommerce\eCommerce.DAL\obj\Debug\eCommerce.DAL.pdb
 C:\Users\Stanley\Documents\Visual Studio 2017\Projects\eCommerce\eCommerce.DAL\obj\Debug\eCommerce.DAL.Migrations.initial.resources
 C:\Users\Stanley\Documents\Visual Studio 2017\Projects\eCommerce\eCommerce.DAL\obj\Debug\eCommerce.DAL.csproj.GenerateResource.Cache
+C:\Users\Stanley\Documents\Visual Studio 2017\Projects\eCommerce\eCommerce.DAL\obj\Debug\eCommerce.DAL.dll
+C:\Users\Stanley\Documents\Visual Studio 2017\Projects\eCommerce\eCommerce.DAL\obj\Debug\eCommerce.DAL.pdb
