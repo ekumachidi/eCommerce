@@ -1,4 +1,5 @@
 C:\Users\Stanley\Documents\Visual Studio 2017\Projects\eCommerce\eCommerce.Contracts\bin\Debug\eCommerce.Contracts.dll
 C:\Users\Stanley\Documents\Visual Studio 2017\Projects\eCommerce\eCommerce.Contracts\bin\Debug\eCommerce.Contracts.pdb
+C:\Users\Stanley\Documents\Visual Studio 2017\Projects\eCommerce\eCommerce.Contracts\obj\Debug\eCommerce.Contracts.csprojResolveAssemblyReference.cache
 C:\Users\Stanley\Documents\Visual Studio 2017\Projects\eCommerce\eCommerce.Contracts\obj\Debug\eCommerce.Contracts.dll
 C:\Users\Stanley\Documents\Visual Studio 2017\Projects\eCommerce\eCommerce.Contracts\obj\Debug\eCommerce.Contracts.pdb

@@ -1,5 +1,4 @@
 C:\Users\Stanley\Documents\Visual Studio 2017\Projects\eCommerce\eCommerce.Model\bin\Debug\eCommerce.Model.dll
 C:\Users\Stanley\Documents\Visual Studio 2017\Projects\eCommerce\eCommerce.Model\bin\Debug\eCommerce.Model.pdb
-C:\Users\Stanley\Documents\Visual Studio 2017\Projects\eCommerce\eCommerce.Model\obj\Debug\eCommerce.Model.csprojResolveAssemblyReference.cache
 C:\Users\Stanley\Documents\Visual Studio 2017\Projects\eCommerce\eCommerce.Model\obj\Debug\eCommerce.Model.dll
 C:\Users\Stanley\Documents\Visual Studio 2017\Projects\eCommerce\eCommerce.Model\obj\Debug\eCommerce.Model.pdb
